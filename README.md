@@ -59,13 +59,13 @@
 - Aprender sobre alguns assuntos de interesse (sistemas embarcados, e afins)
 
 <hr/>
-
+<!--
 <div align="center">
   <h3>Minhas Estatísticas</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatFSantos&theme=omni">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatFSantos&layout=compact&theme=omni">
 </div>
-
+-->
 
 <div align="center">
   <strong>That's all folks!</strong>
